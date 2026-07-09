@@ -1,39 +1,28 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=1976D2&center=true&vCenter=true&width=850&lines=Hi,+I'm+Aniket+Patil;Aspiring+Data+Analyst;Power+BI+%7C+SQL+%7C+Excel+%7C+DAX;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
+# 👋 Hi, I'm Aniket Patil
 
-# Hi 👋, I'm Aniket Patil
+### Aspiring Data Analyst from India 🇮🇳
 
-### Aspiring Data Analyst
+**Power BI • SQL • Excel • DAX • Power Query • Python**
 
-I enjoy transforming raw data into meaningful insights through dashboards and analytics.  
-Currently building projects using **Power BI, SQL, Excel, DAX, Power Query, and Python.**
+*Turning Data into Actionable Insights through Business Intelligence*
 
 </div>
 
 ---
 
-# 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
-🎓 Final Year B.E. Computer Engineering
-
-📊 Aspiring Data Analyst
-
-📍 Pune, Maharashtra, India
-
-🌱 Currently Learning
-- Advanced SQL
-- Power BI
-- Python for Data Analysis
-
-🎯 Career Goal
-- Become a Data Analyst
-- Build real-world Business Intelligence projects
-- Continuously improve analytical and problem-solving skills
+- 🎓 Final Year B.E. Computer Engineering
+- 📊 Aspiring Data Analyst
+- 📍 Pune, Maharashtra, India
+- 🌱 Currently learning **Advanced SQL, Power BI, and Python for Data Analysis**
+- 🎯 Passionate about building interactive dashboards and solving business problems using data
 
 ---
 
-# 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
 
@@ -49,11 +38,11 @@ Currently building projects using **Power BI, SQL, Excel, DAX, Power Query, and 
 
 ---
 
-# 🛠 Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
 
 </p>
 
@@ -69,24 +58,20 @@ Currently building projects using **Power BI, SQL, Excel, DAX, Power Query, and 
 
 </p>
 
-### Other Tools
+---
 
-- Git
-- GitHub
-- VS Code
+<h2 align="center">🚀 Featured Projects</h2>
+
+| Project | Description |
+|---------|-------------|
+| 🏥 **Hospital Emergency Room Dashboard** | Interactive Power BI dashboard analyzing 9,216+ patient records with KPIs, executive insights, and operational analytics. |
+| 📊 Sales Analytics Dashboard | Coming Soon |
+| 👥 HR Analytics Dashboard | Coming Soon |
+| 💰 Finance Dashboard | Coming Soon |
 
 ---
 
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🏥 Hospital Emergency Room Dashboard | Interactive Power BI dashboard with 9,216+ patient records |
-| 📊 Sales Analytics Dashboard | Coming Soon |
-| 👥 HR Analytics Dashboard | Coming Soon |
-| 💰 Financial Dashboard | Coming Soon |
-
-# 📈 GitHub Stats
+<h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
 
@@ -98,7 +83,7 @@ Currently building projects using **Power BI, SQL, Excel, DAX, Power Query, and 
 
 ---
 
-# 🔥 Contribution Streak
+<h2 align="center">🔥 Contribution Streak</h2>
 
 <p align="center">
 
@@ -108,17 +93,13 @@ Currently building projects using **Power BI, SQL, Excel, DAX, Power Query, and 
 
 ---
 
-# 🎯 2026 Goals
+<h2 align="center">🎯 2026 Goals</h2>
 
-✅ Get a Data Analyst Role
-
-✅ Build 5 End-to-End Analytics Projects
-
-✅ Master SQL & Power BI
-
-✅ Improve Python Skills
-
-✅ Contribute to Open Source
+- ✅ Secure a Data Analyst role
+- ✅ Build 5 end-to-end analytics projects
+- ✅ Master SQL and Power BI
+- ✅ Improve Python for Data Analytics
+- ✅ Strengthen problem-solving and business analysis skills
 
 ---
 
@@ -130,6 +111,4 @@ Currently building projects using **Power BI, SQL, Excel, DAX, Power Query, and 
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my GitHub Profile! ⭐
-</h3>
+<h3 align="center">⭐ Thanks for visiting my GitHub Profile! ⭐</h3>
