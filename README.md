@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=1976D2&center=true&vCenter=true&width=850&lines=Hi,+I'm+Aniket+Patil;Aspiring+Data+Analyst;Power+BI+%7C+SQL+%7C+Excel+%7C+DAX;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
+
 # 👋 Hi, I'm Aniket Patil
 
 ### Aspiring Data Analyst from India 🇮🇳
