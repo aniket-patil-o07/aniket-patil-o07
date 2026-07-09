@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=1976D2&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Aniket+Patil;Aspiring+Data+Analyst;Power+BI+%7C+SQL+%7C+Excel+%7C+DAX;Turning+Data+into+Insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?    font=Poppins&size=28&duration=3500&pause=1200&color=1976D2&center=true&vCenter=true&width=850&lines=Hi,+I'm+Aniket+Patil;Aspiring+Data+Analyst;Power+BI+Developer;SQL+%7C+Excel+%7C+DAX;Welcome+to+my+GitHub+Profile!" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Aniket Patil</h1>
