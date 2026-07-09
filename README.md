@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Aniket Patil
 
-### Aspiring Data Analyst from India 🇮🇳
+### Aspiring Data Analyst
 
 I enjoy transforming raw data into meaningful insights through dashboards and analytics.  
 Currently building projects using **Power BI, SQL, Excel, DAX, Power Query, and Python.**
