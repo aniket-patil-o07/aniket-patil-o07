@@ -1,13 +1,15 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=1976D2&center=true&vCenter=true&width=800&lines=Hi,+I'm+Aniket+Patil;Aspiring+Data+Analyst;Power+BI+%7C+SQL+%7C+Excel+%7C+DAX;Turning+Data+into+Actionable+Insights)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Aniket Patil</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=1976D2&center=true&vCenter=true&width=850&lines=Hi,+I'm+Aniket+Patil;Aspiring+Data+Analyst;Power+BI+%7C+SQL+%7C+Excel+%7C+DAX;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
 
-<h3 align="center">Aspiring Data Analyst from India 🇮🇳</h3>
+# Hi 👋, I'm Aniket Patil
 
-<p align="center">
-I enjoy transforming raw data into meaningful insights through dashboards and analytics.<br>
-Currently building projects using <b>Power BI, SQL, Excel, DAX, Power Query, and Python.</b>
-</p>
+### Aspiring Data Analyst from India 🇮🇳
+
+I enjoy transforming raw data into meaningful insights through dashboards and analytics.  
+Currently building projects using **Power BI, SQL, Excel, DAX, Power Query, and Python.**
+
+</div>
 
 ---
 
