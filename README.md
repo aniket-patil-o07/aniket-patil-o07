@@ -35,7 +35,7 @@ Currently building projects using **Power BI, SQL, Excel, DAX, Power Query, and 
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/aniket-patil-o07">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -51,14 +51,23 @@ Currently building projects using **Power BI, SQL, Excel, DAX, Power Query, and 
 
 # 🛠 Tech Stack
 
-### Data Analytics
+<p align="center">
 
-- 📊 Power BI
-- 📈 Microsoft Excel
-- ⚡ DAX
-- 🔄 Power Query
-- 🗄 SQL (MySQL)
-- 🐍 Python (Basics)
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/DAX-02569B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+</p>
 
 ### Other Tools
 
@@ -70,25 +79,12 @@ Currently building projects using **Power BI, SQL, Excel, DAX, Power Query, and 
 
 # 🚀 Featured Projects
 
-## 🏥 Hospital Emergency Room Dashboard
-
-✔ Interactive Power BI Dashboard
-
-✔ 9,216+ Patient Records
-
-✔ Executive Summary
-
-✔ Monthly Overview
-
-✔ Patient Records
-
-✔ Executive Insights
-
-🔗 Repository
-
-https://github.com/aniket-patil-o07/hospital-er-dashboard-powerbi
-
----
+| Project | Description |
+|----------|-------------|
+| 🏥 Hospital Emergency Room Dashboard | Interactive Power BI dashboard with 9,216+ patient records |
+| 📊 Sales Analytics Dashboard | Coming Soon |
+| 👥 HR Analytics Dashboard | Coming Soon |
+| 💰 Financial Dashboard | Coming Soon |
 
 # 📈 GitHub Stats
 
