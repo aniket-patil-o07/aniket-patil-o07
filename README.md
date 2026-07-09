@@ -71,28 +71,6 @@
 
 ---
 
-<h2 align="center">📈 GitHub Stats</h2>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aniket-patil-o07&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-patil-o07&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-<h2 align="center">🔥 Contribution Streak</h2>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=aniket-patil-o07&theme=tokyonight"/>
-
-</p>
-
----
-
 <h2 align="center">🎯 2026 Goals</h2>
 
 - ✅ Secure a Data Analyst role
